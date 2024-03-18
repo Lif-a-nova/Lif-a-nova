@@ -4,8 +4,8 @@
 **A little bit about me:**
 - 🌱 I’m currently learning Python, Backend, HTML, API, SQL
 - 📫 How to reach me:
-  -- Email: lif-a-nova@yandex.ru
-  -- Telegram: @lif_a_nova
+    - Email: lif-a-nova@yandex.ru
+    - Telegram: @lif_a_nova
 - ⚡ Real facts:
     - 🐲 我学习汉语 - I learn Chinese 
     - 💿 I ride a monocycle
