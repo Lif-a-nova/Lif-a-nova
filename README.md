@@ -6,8 +6,8 @@
 - 📫 How to reach me:
   -- Email: lif-a-nova@yandex.ru
   -- Telegram: @lif_a_nova
-- ⚡ Real facts:🐲
-    - 我学习汉语 - I learn Chinese 
+- ⚡ Real facts:
+    - 🐲 我学习汉语 - I learn Chinese 
     - 💿 I ride a monocycle
 
 ### Languages and Tools:
